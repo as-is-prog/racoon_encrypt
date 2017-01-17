@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "某実習で作成した、たぬき暗号を生成するgem"
   spec.description   = "たぬき暗号化及び、たぬき暗号の復号を行えるクラスを提供します。cが一個足りないのはご愛嬌。"
-  spec.homepage      = "http://rubygems.org/gems/racoon_encrypt"
+  spec.homepage      = "https://github.com/as-is-prog/racoon_encrypt"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
