@@ -1,6 +1,7 @@
 # RacoonEncrypt
 
 某実習11回提出課題のために作成された、たぬき暗号の生成、たぬき暗号の復号を行うクラスを提供するRubyGemです。
+Raccoonのcが一個足りないのはご愛嬌。
 
 ## Installation
 
